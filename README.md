@@ -24,9 +24,16 @@ git clone https://github.com/zrana24/STOK-UYGULAMASI
 ## Kullanım
 
 - **Ürün Kaydı Oluşturma:** Ana menüde yer alan "Ürünler" sekmesinden yeni ürün ekleyebilir, düzenleyebilir veya silebilirsiniz.
+![urun](https://github.com/zrana24/STOK-UYGULAMASI/assets/126763047/3f7c8dfe-cd34-421c-9032-03808974b3e8)
+
 - **Fatura Oluşturma:** "Fatura Oluştur" sekmesinden alış veya satış yaparak fatura oluşturabilirsiniz.
+![firmacari](https://github.com/zrana24/STOK-UYGULAMASI/assets/126763047/436d9ced-5ca5-49d0-9a5c-bf4265786c66)
+
 - **Firma ve Cari Kartları Kaydı:** "Firmalar" ve "Cari Kartlar" sekmesinden yeni firma veya cari kart ekleyebilir ve bilgilerini düzenleyebilirsiniz.
+ ![fatura](https://github.com/zrana24/STOK-UYGULAMASI/assets/126763047/1c45fb59-ab97-492d-b57b-1f8f48b82ca2)
+
 - **Kasa İşlemleri:** "Kasa" sekmesinden kasadaki gelir ve giderleri görüntüleyebilirsiniz.
+![kasa](https://github.com/zrana24/STOK-UYGULAMASI/assets/126763047/c9af223b-6258-419c-b271-04c0528a87d0)
 
 
 ## Lisans
