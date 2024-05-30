@@ -1,6 +1,6 @@
 # Stok Yönetim Projesi
 
-Bu proje, bir işletmenin stok yönetimini, alış satış işlemlerini, firma ve cari kartlarını kaydetme, fatura oluşturma ve kasa işlemlerini gerçekleştirme amacıyla geliştirilmiştir.
+Bu proje, bir işletmenin stok yönetimini, alış satış işlemlerini, firma ve cari kartlarını kaydetme, fatura kaydı ve kasa işlemlerini gerçekleştirme amacıyla geliştirilmiştir.
 
 ## Kurulum
 
