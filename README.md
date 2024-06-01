@@ -40,6 +40,3 @@ git clone https://github.com/zrana24/STOK-UYGULAMASI
 ![kasa](https://github.com/zrana24/STOK-UYGULAMASI/assets/126763047/c9af223b-6258-419c-b271-04c0528a87d0)
 
 
-## Lisans
-
-Bu proje MIT lisansı altında lisanslanmıştır. Daha fazla bilgi için [LICENSE](LICENSE) dosyasına bakabilirsiniz.
